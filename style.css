@@ -1,5 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
-p{
-font-family:Lato
+h1{
+font-family:Lato;
+text-align:center;
+margin-top:20%;
 }
+
+#start{
+height:100%;
+width:100%;
+}
+
+#designed{
+text-align:center;
+font-family:Lato;
+}
+
+#button{
+margin-left:43%;
+}
+
+#next{
+height:100%;
+}
+
