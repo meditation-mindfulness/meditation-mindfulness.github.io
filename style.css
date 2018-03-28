@@ -22,5 +22,41 @@ margin-left:43%;
 
 #next{
 height:100%;
+background-color:#ffff99;
 }
 
+#mindful{
+margin-left:25%;
+}
+
+#sounds{
+	border-top:3px solid white;
+	width:50%;
+	height:40%;
+	background-color:#ff99cc;
+	float:left;
+}
+
+#videos{
+	border-top:3px solid white;
+	width:50%;
+	height:40%;
+	background-color:#9999ff;
+	float:left;
+}
+
+#calendar{
+	width:50%;
+	height:40%;
+	border:10px;
+	background-color:#99ff99;
+	float:left;
+}
+
+#progress{
+	width:50%;
+	height:40%;
+	border:10px;
+	background-color:#ccffff;
+	float:left;
+}
