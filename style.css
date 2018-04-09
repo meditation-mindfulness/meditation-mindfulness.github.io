@@ -60,3 +60,17 @@ margin-left:25%;
 	background-color:#ccffff;
 	float:left;
 }
+
+#note{
+	margin-left:50px;
+	margin-top:20px;
+}
+
+#soundtext{
+	opacity:0.4;
+	font-family:Lato;
+	margin-left:40%;
+	margin-top:-20%;
+	font-size:72px;
+	color:white;
+}
