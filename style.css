@@ -113,3 +113,8 @@ margin-left:25%;
 .lato{
 	font-family:Lato
 }
+
+#entryOne{
+	background-color:green;
+	width:50px;
+}
