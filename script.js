@@ -4,7 +4,7 @@ function entry1(){
 		document.getElementById('entryOne').style.backgroundColor == "green"}
     }
 	else {
-		document.getElementById("journaltext") = firstEntry
+		document.getElementById("journaltext").innerHTML = firstEntry
 	}
 	
 }
